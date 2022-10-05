@@ -1,0 +1,58 @@
+
+h1, .h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  font-size: 70px;
+}
+
+.btn-purple {
+  background-color: rgb(125, 91, 237);
+  font-family: 'Inter', sans-serif;
+  color: white;
+}
+
+
+.img-screenshot {
+  max-width: 1820px;
+  width: 1500px;
+  height: 797px;
+  text-align: center;
+}
+.img-resized {
+  width: 1296px;
+  height: 845px;
+}
+
+.spacer {
+  margin-top: 130px;
+}
+
+.header-colors{
+  background-color: rgba(22, 22, 22, 0.7);
+  border-bottom-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.item-colors {
+  color: rgb(186, 186, 186) !important;
+}
+
+.btn {
+  padding-top: 10px !important;
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+  padding-bottom: 10px !important;
+}
+
+.obslogo {
+  font-family: "Prompt", sans-serif;
+  color: rgb(186, 186, 186);
+}
+
+.footer {
+  color: rgb(186, 186, 186);
+}
+
+.col-margins {
+  margin: 0 30px 30px 30px !important;
+  display: inline-block;
+}
